@@ -19,3 +19,20 @@ Implemented advanced game mechanics and graphics rendering techniques to ensure 
 
 
 Role: As the Tech Lead, I oversaw the development of core game features, focusing on the implementation and optimization of the Magnet power-up, ensuring it integrates seamlessly with the overall gameplay.
+
+
+
+How To Play :
+Install and open Unity 2023.2.20f1 or higher
+Download and open this project
+change the game mode from game to simulator 
+and hit play
+Use mouse to swipe up down right left to move 
+collect coins and power ups to get higher score
+
+Images:
+![image](https://github.com/user-attachments/assets/085641fe-3e7b-48b9-8c4b-4fbdc25ad57b)
+![image](https://github.com/user-attachments/assets/bda7602d-cb05-442d-94ec-5bfbe12b1dc5)
+![image](https://github.com/user-attachments/assets/b9fb2729-ea09-4e8e-8703-0482d828f158)
+
+
