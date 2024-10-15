@@ -14,7 +14,7 @@ User-Friendly Interface: Designed for accessibility and ease of use, making it e
 
 Technologies Used:
 
-Developed using [insert programming languages or frameworks, e.g., Unity, C#, etc.].
+Developed using Unity, C#
 Implemented advanced game mechanics and graphics rendering techniques to ensure a smooth user experience.
 
 
